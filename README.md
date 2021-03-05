@@ -12,5 +12,8 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 [Ludovico Frate](https://github.com/ludovico85)
 
 ### Docenti dei corsi
-[Maria Laura Carranza](https://github.com/ludovico85)
-[http://envixlab.unimol.it/team_mf/laura-carranza/](http://envixlab.unimol.it/team_mf/mirko-di-febbraro/)
+[Maria Laura Carranza](http://envixlab.unimol.it/team_mf/laura-carranza/)
+[Mirko Di Febbraro](http://envixlab.unimol.it/team_mf/mirko-di-febbraro/)
+
+### Contatti
+Ludovico Frate [Ludovico Frate](frateludovico@gmail.com)
