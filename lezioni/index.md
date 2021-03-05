@@ -1,8 +1,10 @@
 
-# Tutorials for every technologist
+# Materiale del corso
 
-Learn about all these great technologies:
+In questa sezione puoi consultare il materiale utilizzato durante il corso
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+* [Slides](./slides/index.md)
+
+* [Istruzioni](./istruzioni/index.md)
+
+* [Esercitazioni](./esercitazioni/index.md)
