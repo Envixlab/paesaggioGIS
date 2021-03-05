@@ -3,8 +3,8 @@
 
 In questa sezione puoi consultare il materiale utilizzato durante il corso
 
-* [Slides](./slides/index.md)
+* [Slides](./materiale/slides/index.md)
 
-* [Istruzioni](./istruzioni/index.md)
+* [Istruzioni](./materiale/istruzioni/index.md)
 
-* [Esercitazioni](./esercitazioni/index.md)
+* [Esercitazioni](./materiale/esercitazioni/index.md)
