@@ -17,5 +17,7 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 
 ### Contatti
 [Dott. Ludovico Frate](mailto:frateludovico@gmail.com)
+
 [Prof.ssa Maria Laura Carranza](mailto:carranza@unimol.it)
+
 [Prof. Mirko Di Febbraro](mailto:mirkodifebbraro@gmail.com)
