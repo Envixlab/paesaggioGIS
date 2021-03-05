@@ -3,10 +3,10 @@
 
 * [HOME](./)
 
-* [Lezioni](./lezioni/index)
-  * [Lezione 1](./lezioni/lezione1/index)
-  * [Lezione 2](./lezioni/lezione2/index)
-  * [Lezione 3](./lezioni/lezione3/index)
+* [Materiale](./materiale/index)
+  * [Slides](./materiale/slides/index)
+  * [istruzioni](./materiale/istruzioni/index)
+  * [esercitazioni](./materiale/esercitazioni/index)
 * [Esercitazioni](./esercitazioni/index)
 * [Soluzioni](./soluzioni/index)
 
