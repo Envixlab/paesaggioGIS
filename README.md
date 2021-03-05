@@ -16,4 +16,4 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 [Mirko Di Febbraro](http://envixlab.unimol.it/team_mf/mirko-di-febbraro/)
 
 ### Contatti
-Ludovico Frate [Ludovico Frate](frateludovico@gmail.com)
+[Ludovico Frate](mailto:frateludovico@gmail.com)
