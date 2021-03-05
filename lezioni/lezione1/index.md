@@ -1,8 +1,4 @@
 
-# Tutorials for every technologist
+# Introduzione al GIS
 
-Learn about all these great technologies:
-
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+Il GIS acronimo di Sistema Inforativo Geografico
