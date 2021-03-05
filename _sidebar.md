@@ -5,7 +5,8 @@
 
 * [Materiale](./materiale/index)
   * [Slides](./materiale/slides/index)
-  * [Istruzioni](./materiale/istruzioni/index)
+  * [Tutorial](./materiale/tutorial/index)
+    * [Installazione di QGIS](./materiale/tutorial/installazione/index)  
   * [Esercitazioni](./materiale/esercitazioni/index)
 * [Esercitazioni](./esercitazioni/index)
 * [Soluzioni](./soluzioni/index)
