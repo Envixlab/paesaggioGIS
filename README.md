@@ -13,6 +13,7 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 
 ### Docenti dei corsi
 [Maria Laura Carranza](http://envixlab.unimol.it/team_mf/laura-carranza/)
+
 [Mirko Di Febbraro](http://envixlab.unimol.it/team_mf/mirko-di-febbraro/)
 
 ### Contatti
