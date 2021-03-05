@@ -1,11 +1,11 @@
-#Download e installazione di QGIS
+# Download e installazione di QGIS
 
 QGIS viene distribuito in due versioni principali  la versione più recente (allo stato attuale la 3.18) che però deve essere utilizzata solo da utenti avanzati per il testing, e la versione a lungo supporto LTR (attualmente la 3.16) che è la versione più stabile.
 
 [Download QGIS](https://www.qgis.org/it/site/forusers/download.html)
 
 
-##Istruzioni per Windows
+## Istruzioni per Windows
 
 Per gli utenti Windows esiste la possibilità di scaricare la versione Standalone installer che scarica QGIS con tutto il necessario per il funzionamento e l'OSGeo4W Network Installer che invece permette di selezionare quali pacchetti installare e di scaricare applicativi aggiuntivi (per utenti avanzati).
 
@@ -15,7 +15,7 @@ Si consiglia di scaricare la versione Standalone a lungo supporto. Prima di scar
 ![sistema](../../../images/sistema.png)
 
 
-##Istruzioni per Linux (Distribuzioni Debian/Ubuntu)
+## Istruzioni per Linux (Distribuzioni Debian/Ubuntu)
 
 Aggiungere alla fine del file le seguenti linee
 
@@ -50,6 +50,6 @@ gpg --export --armor F7E06F06199EF2F2 | sudo gpg --no-default-keyring --keyring 
 sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 ```
 
-##Istruzioni per Mac OS
+## Istruzioni per Mac OS
 
 Sul sito di QGIS sono presenti gli installer pronti per le versioni del sistema operativo MacOS. Valgono le stesse considerazioni fatte per windows ossia l'installazione della versione LTR. 
