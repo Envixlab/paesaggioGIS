@@ -1,6 +1,15 @@
 # Benvenuto sulla pagina di Introduzione al GIS!
 
-## Questo sito contiene la documentazione prodotta durante il modulo di Introduzione al GIS per i corsi di Ecologia del Paesaggio e Sistemi Informativi Territoriali applicato all'Ecologia e alla gestione degli ambienti montanti.
+## Questo sito contiene la documentazione prodotta durante il modulo di **Introduzione al GIS** per i corsi di Ecologia del Paesaggio e Sistemi Informativi Territoriali applicati all'Ecologia e alla gestione degli ambienti montanti.
+
+### Link ai corsi
+
+[Ecologia del Paesaggio e Conservazione della Biodiversità](https://unimol.esse3.cineca.it/AttivitaDidatticaContestualizzata.do?ad_id=31309026&cds_id=10155&pds_id=9999&aa_ord_id=2016&aa_off_id=2020&cod_lingua=ita)
+
+[Elementi di Ecologia del Paesaggio](https://unimol.esse3.cineca.it/AttivitaDidatticaContestualizzata.do?ad_id=31309023&cds_id=10017&pds_id=9999&aa_ord_id=2016&aa_off_id=2020&cod_lingua=ita)
+
+[Sistemi informativi territoriali applicati all'ecologia e alla gestione degli ambienti montani](https://unimol.esse3.cineca.it/AttivitaDidatticaContestualizzata.do?ad_id=31310446&cds_id=10004&pds_id=9999&aa_ord_id=2017&aa_off_id=2020&cod_lingua=ita)
+
 
 ### Informazioni sul modulo
 L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo da poter operare autonomamente nell'ambito dell'ecologia spaziale. Durante il modulo verrà utilizzato il software Open Source QGIS. Alla fine del corso lo studente sarà in grado di:
