@@ -15,4 +15,7 @@ Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti
 
 ## Parte 2: Query
 
-### Selezione e salvataggio di un comune
+### Selezione comune AND OR
+
+caricamento SIC
+Selezione spaziale
