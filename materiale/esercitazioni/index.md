@@ -6,10 +6,10 @@ Durante il laboratorio si affronteranno i seguenti temi:
 * Vestizione di dataset vettoriali
 * Selezione spaziale e non spaziale (Queries)
 * Analisi spaziali:
-** Calcolo delle aree
-** Strumenti di geoprocessing
+	* Calcolo delle aree
+	* Strumenti di geoprocessing
 * Layout di stampa
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+[Esercitazione #1](./esercitazione1/index.md)
+[Esercitazione #2](./esercitazione2/index.md)
+[Esercitazione #3](./esercitazione3/index.md)
