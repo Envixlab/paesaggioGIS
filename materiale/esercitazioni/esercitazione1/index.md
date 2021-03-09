@@ -11,4 +11,8 @@ In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , naviga
 
 ![] (../../../images/ice_video_20210309-205056.gif)
 
-Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attribbuti` oppure cliccare il tasto F6.
+Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attribbuti` oppure cliccare il tasto F6. Esplorare la tabella attributi. Utilizzare il nome del comune per tematizzare il layer.
+
+## Parte 2: Query
+
+### Selezione e salvataggio di un comune
