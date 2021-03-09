@@ -12,8 +12,8 @@ Durante il laboratorio si affronteranno i seguenti temi:
 
 Bisognerà discutere un caso studio, focalizzato sull'ecologia del paesaggio, attraverso l'integrazione di differenti metodologie di analisi GIS.
 
-[Esercitazione #1](./esercitazione1/index.md)
+[Esercitazione #1](./esercitazione1/index)
 
-[Esercitazione #2](./esercitazione2/index.md)
+[Esercitazione #2](./esercitazione2/index)
 
-[Esercitazione #3](./esercitazione3/index.md)
+[Esercitazione #3](./esercitazione3/index)
