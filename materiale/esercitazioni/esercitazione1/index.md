@@ -1,4 +1,4 @@
-# Esercitazion2 #1 - Gestione dei dati vettoriali
+# Esercitazione #1 - Gestione dei dati vettoriali
 
 ## Overview
 
