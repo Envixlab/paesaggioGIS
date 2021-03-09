@@ -8,6 +8,9 @@
   * [Tutorial](./materiale/tutorial/index)
     * [Installazione di QGIS](./materiale/tutorial/installazione/index)  
   * [Esercitazioni](./materiale/esercitazioni/index)
+	* [Esercitazione #1](./materiale/esercitazioni/esercitazione1/index)
+	* [Esercitazione #2](./materiale/esercitazioni/esercitazione2/index)
+	* [Esercitazione #3](./materiale/esercitazioni/esercitazione3/index)
 
 * [Contatti](./contact/index)
 
