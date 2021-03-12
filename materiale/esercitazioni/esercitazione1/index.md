@@ -1,7 +1,7 @@
 # Esercitazione #1 - Gestione dei dati vettoriali
 
 ## Overview
-In questo esercizio imparerai a caricare un dataset vettoriale, esplorare la tabella attributi e utilizzare i dati contenuti per tematizzare il dataset. Nella seconda parte dell'esercizio imparerai ad effettura delle queries sia spaziali che non spaziali e ad esportare il dataset selezionato.
+In questo esercizio imparerai a caricare un dataset vettoriale, esplorare la tabella attributi e utilizzare i dati contenuti per tematizzare il dataset. Nella seconda parte dell'esercizio imparerai ad effettuare delle queries sia spaziali che non spaziali e ad esportare il dataset selezionato.
 ## Parte 1: caricamento del dataset vettoriale comuni_molise
 ### Caricamento del dataset
 Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\esecizio_1 e copiare all'interno il dataset comuni_molise (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
@@ -25,11 +25,11 @@ Esistono diversi tipi di tematizzazione; i più utilizzati sono:
 * `Categorizzato`: crea delle categorie di valori utilizzando un campo della tabella attributi (si applica a valori qualitativi);
 * `Graduato` : crea delle classi sulla base di un campo con valori numerici (si applica a valori quantitativi).
 
-Il campo `COD_PRO` pur essendo di tipo numerico, esprime in realtà una qualità (una categoria). Andrà quindi utilizzato il metodo `categorizzato`.
+Il campo `COD_PROV` pur essendo di tipo numerico, esprime in realtà una qualità (una categoria). Andrà quindi utilizzato il metodo `categorizzato`.
 
 Per approfondire l'argomento si può consultare [l'estratto del libro "Esercizi svolti in QGIS"](https://www.darioflaccovio.it/index.php?controller=attachment&id_attachment=648)
 
-## Parte 2: Query
+## Parte 2: Analisi vettoriali e Query
 ### Selezione non spaziale
 La selezione non spaziale sfrutta le i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl`+`F3`
 
@@ -41,7 +41,21 @@ Per selezionare un valore specifico, l'operatore da utilizzare è `=`. Ad esempi
 
 Una volta selezionato, la geometria selezionata apparirà di colore giallo e il corrispondente record nella tabella attributi apparirà in blu. Per esposratre la geometri selezionata e creare un nuovo dataset, cliccare con il tasto destro su `comuni_molise`, `Esporta`, `Salva elementi selezionati come`:
 
-![sistema](../../../images/save_selection.png)
+![sistema](../../../images/save_selection.PNG)
+
+Per deselezionare la selezione in corso premere `Deseleziona Elementi` ![deselect](https://docs.qgis.org/3.16/en/_images/mActionDeselectAll.png)
+
+Una query può interrogare contemporeanamente più caratteristiche del database, utilizzando gli operatori Booleani `AND`, `NOT`, `OR` e `XOR`.
+
+Selezione di più comuni:
+
+`COMUNE='Termoli' OR COMUNE='Isernia'`
+
+Selezione di un comune della provincia di Isernia e di tutti i comuni della provincia di Campobasso:
+
+`COMUNE='Miranda' OR COD_PROV=70`
+
+Selezione di un comune della provincia di Isernia e di tutti i comuni della provincia di Campobasso:
 
 
 caricamento SIC
