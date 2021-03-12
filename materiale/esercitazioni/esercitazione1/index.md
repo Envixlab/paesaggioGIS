@@ -6,15 +6,39 @@ In questo esercizio imparerai a caricare un dataset vettoriale, esplorare la tab
 
 ## Parte 1: caricamento del dataset vettoriale comuni_molise
 
+### Carciamento del dataset
+
 Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\esecizio_1 e copiare all'interno il dataset comuni_molise (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
 In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , navigare nell'apposita cartella e caricare il dataset comuni_molise [link al tutorial](./materiale/tutorial/caricamento_vettoriali/index).
 
 
 Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attributi` oppure cliccare il tasto F6. Esplorare la tabella attributi. Utilizzare il nome del comune per tematizzare il layer.
 
+### Vestizione o tematizzazione del dataset
+Vestire o tematizzare un dato singifica assegnare colori differenti alle geometrie del dato sulla base delle caratteristiche contenute nella tabella attributi, al fine di evidenziare un fenomeno.
+
+
 ## Parte 2: Query
 
-### Selezione comune AND OR
+### Selezione non spaziale
+
 
 caricamento SIC
 Selezione spaziale
+
+
+|-- karma.conf.js
+    |-- package.json
+    |-- app
+        |-- app.js
+        |-- db.js
+        |-- directoryList.md
+        |-- index.html
+        |-- mddir.js
+        |-- routing.js
+        |-- server.js
+        |-- _api
+            |-- api.groups.js
+            |-- api.posts.js
+            |-- api.users.js
+            |-- api.widgets.js
