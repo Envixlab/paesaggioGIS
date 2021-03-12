@@ -87,6 +87,5 @@ Seleziona i comuni della provincia di Isernia con superficie non maggiore di 50 
 
  `"COD_PROV"  =  94  AND NOT "sup_kmq" > 50`
 
-
-caricamento SIC
-Selezione spaziale
+### Selezione spaziale
+Carica il dataset vettoriale SIC_Molise
