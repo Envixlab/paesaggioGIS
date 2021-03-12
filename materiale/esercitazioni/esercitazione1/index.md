@@ -88,4 +88,24 @@ Seleziona i comuni della provincia di Isernia con superficie non maggiore di 50 
  `"COD_PROV"  =  94  AND NOT "sup_kmq" > 50`
 
 ### Selezione spaziale
-Carica il dataset vettoriale SIC_Molise
+Caricare il dataset vettoriale SIC_Molise. Utilizzare il comando `Selezione per posizione` ![selection_by_location](https://docs.qgis.org/3.16/en/_images/mAlgorithmSelectLocation.png)
+
+Selezionare tutti i comuni che ricadono in zone SIC:
+
+* `Seleziona elementi da` : comuni_molise
+* `Dove gli elementi`: interseca
+* `Rispetto agli elementi`: SIC_Molise
+* `Modifica la selezione corrente con`: creazione nuova selezione in corso
+
+Selezionare i comuni completamente compresi in zone SIC:
+
+* `Seleziona elementi da` : comuni_molise
+* `Dove gli elementi`: sono contenuti
+* `Rispetto agli elementi`: SIC_Molise
+* `Modifica la selezione corrente con`: creazione nuova selezione in corso
+
+Selezionare i comuni che contegono interamente un SIC all'interno della propria estensione:
+* `Seleziona elementi da` : comuni_molise
+* `Dove gli elementi`: contiene
+* `Rispetto agli elementi`: SIC_Molise
+* `Modifica la selezione corrente con`: creazione nuova selezione in corso
