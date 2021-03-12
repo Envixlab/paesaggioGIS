@@ -55,7 +55,7 @@ Scrivere nella finestra delle espressioni:
 Premere ok e valutare il risultato nella tabella attributi.
 
 ### Selezione non spaziale
-La selezione non spaziale sfrutta le i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl`+`F3`
+La selezione non spaziale sfrutta i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl`+`F3`
 
 ![sistema](../../../images/selection.png)
 
@@ -79,7 +79,13 @@ Selezione di un comune della provincia di Isernia e di tutti i comuni della prov
 
 `COMUNE='Miranda' OR COD_PROV=70`
 
-Selezione di un comune della provincia di Isernia e di tutti i comuni della provincia di Campobasso:
+Selezione di tutti i comune della provincia di Campobasso con superficie inferiore a 25 kmq:
+
+ `"COD_PROV"  =  70 AND  "sup_kmq < 25`
+
+Seleziona i comuni della provincia di Isernia con superficie non maggiore di 50 kmq:
+
+ `"COD_PROV"  =  94  AND NOT "sup_kmq" > 50`
 
 
 caricamento SIC
