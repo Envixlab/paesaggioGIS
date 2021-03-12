@@ -38,7 +38,12 @@ La selezione non spaziale sfrutta le i valori dei campi della tabella attributi 
 
 ![sistema](../../../images/selection.png)
 
-Per selezionare un valore specifico, l'operatore da utilizzare è `=`
+Per selezionare un valore specifico, l'operatore da utilizzare è `=`. Ad esempio, se si vuole selezionare il comune di Termoli bisonga digitare:
+
+`COMUNE='Termoli'`
+
+Una volta selezionato, la geometria selezionata apparirà di colore giallo e il corrispondente record nella tabella attributi apparirà in blu. Per esposratre la geometri selezionata e creare un nuovo dataset, cliccare con il tasto destro su `comuni_molise`, `Esporta`, `Salva elementi selezionati come`:
+
 
 
 
