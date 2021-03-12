@@ -2,9 +2,7 @@
 
 ## Overview
 In questo esercizio imparerai a caricare un dataset vettoriale, esplorare la tabella attributi e utilizzare i dati contenuti per tematizzare il dataset. Nella seconda parte dell'esercizio imparerai ad effettura delle queries sia spaziali che non spaziali e ad esportare il dataset selezionato.
-
 ## Parte 1: caricamento del dataset vettoriale comuni_molise
-
 ### Caricamento del dataset
 Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\esecizio_1 e copiare all'interno il dataset comuni_molise (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
 In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , navigare nell'apposita cartella e caricare il dataset comuni_molise [link al tutorial](./materiale/tutorial/caricamento_vettoriali/index).
@@ -32,7 +30,6 @@ Il campo `COD_PRO` pur essendo di tipo numerico, esprime in realtà una qualità
 Per approfondire l'argomento si può consultare [l'estratto del libro "Esercizi svolti in QGIS"](https://www.darioflaccovio.it/index.php?controller=attachment&id_attachment=648)
 
 ## Parte 2: Query
-
 ### Selezione non spaziale
 La selezione non spaziale sfrutta le i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl`+`F3`
 
@@ -44,7 +41,7 @@ Per selezionare un valore specifico, l'operatore da utilizzare è `=`. Ad esempi
 
 Una volta selezionato, la geometria selezionata apparirà di colore giallo e il corrispondente record nella tabella attributi apparirà in blu. Per esposratre la geometri selezionata e creare un nuovo dataset, cliccare con il tasto destro su `comuni_molise`, `Esporta`, `Salva elementi selezionati come`:
 
-
+![sistema](../../../images/save_selection.png)
 
 
 caricamento SIC
