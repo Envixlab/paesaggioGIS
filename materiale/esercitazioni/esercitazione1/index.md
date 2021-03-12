@@ -30,6 +30,30 @@ Il campo `COD_PROV` pur essendo di tipo numerico, esprime in realtà una qualit�
 Per approfondire l'argomento si può consultare [l'estratto del libro "Esercizi svolti in QGIS"](https://www.darioflaccovio.it/index.php?controller=attachment&id_attachment=648)
 
 ## Parte 2: Analisi vettoriali e Query
+### Caratteristiche geometriche
+#### Calcolo della superficie dei comuni mq.
+Aprire il `calcolatore di campi` utilizzando l'apposito comando `Apri Calcolatore di Campi` ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png).
+
+![sistema](../../../images/filed_calculator.png)
+
+* `Crea un nuovo campo`
+* `Nome campo in uscita`: sup_mq
+* `Tipo di campo`: Numero intero
+* `Lunghezza campo in uscita`: 10
+
+Cercare tra le funzioni di geometria la funzione `$area` e premere ok. Valutare il risultato in tabella attributi.
+#### Conversione della superficie in kmq.
+Nel calcolatore campi
+* `Crea un nuovo campo`
+* `Nome campo in uscita`: sup_kmq
+* `Tipo di campo`: Numero intero
+* `Lunghezza campo in uscita`: 10
+
+Scrivere nella finestra delle espressioni:
+`"sup_mq"/1000000`
+
+Premere ok e valutare il risultato nella tabella attributi.
+
 ### Selezione non spaziale
 La selezione non spaziale sfrutta le i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl`+`F3`
 
