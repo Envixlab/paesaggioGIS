@@ -25,11 +25,13 @@ Per modificare lo stile del dataset cliccare su `Apri il pannello Stile Layer` o
 
 Esistono diversi tipi di tematizzazione; i più utilizzati sono:
 
-* `Simbolo singolo` (default) : assegna lo stesso colore a tutte le geometrie del layer;
-* `Categorizzato` : assegna lo stesso colore a tutte le geometrie del layer;
-* `Graduato` : assegna lo stesso colore a tutte le geometrie del layer;
+* `Simbolo singolo` (default): assegna lo stesso colore a tutte le geometrie del layer;
+* `Categorizzato`: crea delle categorie di valori utilizzando un campo della tabella attributi (si applica a valori qualitativi);
+* `Graduato` : crea delle classi sulla base di un campo con valori numerici (si applica a valori quantitativi).
 
+Il campo `COD_PRO` pur essendo di tipo numerico, esprime in realtà una qualità (una categoria). Andrà quindi utilizzato il metodo `categorizzato`.
 
+Per approfondire l'argomento si può consultare [l'estratto del libro "Esercizi svolti in QGIS"](https://www.darioflaccovio.it/index.php?controller=attachment&id_attachment=648)
 
 ## Parte 2: Query
 
