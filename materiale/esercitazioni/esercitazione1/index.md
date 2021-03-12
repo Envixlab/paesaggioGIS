@@ -36,5 +36,9 @@ Per approfondire l'argomento si può consultare [l'estratto del libro "Esercizi 
 ### Selezione non spaziale
 La selezione non spaziale sfrutta le i valori dei campi della tabella attributi per operare le selezioni. In QGIS cliccare su `Seleziona Elementi usando un'espressione` ![simbolo_selezione](https://docs.qgis.org/3.16/en/_images/mIconExpressionSelect.png) oppure premere la combinazione di tasti `Ctrl+`F3
 
+![sistema](../../../images/selection.png)
+
+
+
 caricamento SIC
 Selezione spaziale
