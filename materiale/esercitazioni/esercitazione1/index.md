@@ -10,7 +10,7 @@ Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\eseci
 In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , navigare nell'apposita cartella e caricare il dataset comuni_molise [link al tutorial](./materiale/tutorial/caricamento_vettoriali/index).
 
 
-Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attribbuti` oppure cliccare il tasto F6. Esplorare la tabella attributi. Utilizzare il nome del comune per tematizzare il layer.
+Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attributi` oppure cliccare il tasto F6. Esplorare la tabella attributi. Utilizzare il nome del comune per tematizzare il layer.
 
 ## Parte 2: Query
 
