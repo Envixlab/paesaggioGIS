@@ -43,7 +43,8 @@ Cliccare sull'icona `Class metrics` e selezionare:
 | Area-Edge      | Aggregation |
 | ----------- | ----------- |
 | PLAND      | PD       |
-| ED   | AI        |
+| ED   | NP        |
+| -   | AI        |
 
 Cliccare sull'icona `Landscape metrics` e selezionare:
 
@@ -53,17 +54,23 @@ Cliccare sull'icona `Landscape metrics` e selezionare:
 
 Cliccare su `Run`.
 
-Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. risultati_pattern). Vengono generati due file di output con estensione .class e .land. Per importarli in un foglio di calcolo e fare le analisi occorre modificare i due file con un editori di testo (Blocco note di windows).
+Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. `risultati_pattern`). Vengono generati due file di output con estensione `.class` e `.land`. Per importarli in un foglio di calcolo e fare le analisi occorre modificare i due file con un editori di testo (Blocco note di windows).
 
-Aprire il Blocco note, cliccare su `File` -> `Apri` -> `Tutti i file` e selezionare vandra.class (tappino.class). Il separatore decimale dell'ouput è il punto, ma i sistemi Windows in Italia, sono settati per avere come sepratore decimale la virgola. Bisogna quindi sostituire il punto con la virgola e, la virgola utilizzata per separare le colonne, con il punto e virgola (** se si usa come foglio elettronico Fogli di Google questa operazione non è necessaria. Si può saltare questo step **).
+Aprire il Blocco note, cliccare su `File` -> `Apri` -> `Tutti i file` e selezionare `risultati_pattern.class`. Il separatore decimale dell'ouput è il punto, ma i sistemi Windows in Italia, sono settati per avere come sepratore decimale la virgola. Bisogna quindi sostituire il punto con la virgola e, la virgola utilizzata per separare le colonne, con il punto e virgola (**se si usa come foglio elettronico Fogli di Google questa operazione non è necessaria. Si può saltare questo step**).
 Cliccare su Modifica -> Sostiuisci:
 * `Trova`: ,
 * `Sostiuisci`: ;
 * `Sostituisi tutto`
-Ripeter l'operazione
+Ripetere l'operazione
 * `Trova`: .
 * `Sostiuisci`: ,
-`Sostituisi tutto`
-Salvare il file. Ripetere l'operazione per il file con estensione .land. Rinominare i file .class e . land in .class.csv e .land.csv.
+* `Sostituisi tutto`
+Salvare il file. Ripetere l'operazione per il file con estensione .land. Rinominare i file `.class` e `.land` in `.class.csv` e `.land.csv`.
 
 Aprire i file (.csv) con un foglio elettronico (Excel, Calc di Open Office, Google Fogli). Controllare la formattazione. Se in excel si hanno problemi, selezionare l'intera colonna, cliccare su Dati, Testo in colonne, Delimitato, spuntare il Punto e virgola, Fine. Salvare il file come cartella di lavoro di Excel.
+
+Rappresentare i dati utilizzando i grafici. Confrontare il pattern del bacino del fiume Vandra con il pattern del bacino del fiume Tappino. Rispondere alle seguenti domande:
+
+* Qual è la matrice dei due paesaggi?
+* Quali potrebbero essere i processi che hanno portato all'assetto attuale del pattern spaziale?
+*
