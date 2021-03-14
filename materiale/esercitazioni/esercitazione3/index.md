@@ -23,7 +23,7 @@ Utilizzare lo strumento `Ritaglia` del menu `Geoprocessing`, per creare due cart
 * `Larghezza/Risoluzione orizzontale`: 10
 * `Larghezza/Risoluzione verticale`: 10
 * `Estensione del risultato`: Calcola da Layer->landcover_vandra (landcover_tappino)
-* `Rasterizzato`: Salvare il file all'interno della cartella di progetto (landcover_vandra.tif)
+* `Rasterizzato`: Salvare il file all'interno della cartella di progetto (landcover_vandra.tif/landcover_tappino.tif)
 
 # Parte2: analisi del pattern
 Lanciare l'eseguibile di Fragstats. Verrà effettuata un'analisi del pattern a livello di classe (per ogni categoria di land cover) e a livello di paesaggio (considerando tutte le categorie insieme).
@@ -31,7 +31,8 @@ Lanciare l'eseguibile di Fragstats. Verrà effettuata un'analisi del pattern a l
 Nella tab `Input Layers`:
 * `Add layer`
 * `Data type`: GeoTIFF
-* `Select file`: selezionare il file raster
+* `Select file`: selezionare il file raster landcover_vandra.tif
+* `Select file`: selezionare il file raster landcover_tappino.tif
 
 Nella tab `Analysis parameters`:
 * `General options`: Use 8 cell neighborhood rule
@@ -52,4 +53,17 @@ Cliccare sull'icona `Landscape metrics` e selezionare:
 
 Cliccare su `Run`.
 
-Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. vandra/tappino).
+Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. risultati_pattern). Vengono generati due file di output con estensione .class e .land. Per importarli in un foglio di calcolo e fare le analisi occorre modificare i due file con un editori di testo (Blocco note di windows).
+
+Aprire il Blocco note, cliccare su `File` -> `Apri` -> `Tutti i file` e selezionare vandra.class (tappino.class). Il separatore decimale dell'ouput è il punto, ma i sistemi Windows in Italia, sono settati per avere come sepratore decimale la virgola. Bisogna quindi sostituire il punto con la virgola e, la virgola utilizzata per separare le colonne, con il punto e virgola (** se si usa come foglio elettronico Fogli di Google questa operazione non è necessaria. Si può saltare questo step **).
+Cliccare su Modifica -> Sostiuisci:
+* `Trova`: ,
+* `Sostiuisci`: ;
+* `Sostituisi tutto`
+Ripeter l'operazione
+* `Trova`: .
+* `Sostiuisci`: ,
+`Sostituisi tutto`
+Salvare il file. Ripetere l'operazione per il file con estensione .land. Rinominare i file .class e . land in .class.csv e .land.csv.
+
+Aprire i file (.csv) con un foglio elettronico (Excel, Calc di Open Office, Google Fogli). Controllare la formattazione. Se in excel si hanno problemi, selezionare l'intera colonna, cliccare su Dati, Testo in colonne, Delimitato, spuntare il Punto e virgola, Fine. Salvare il file come cartella di lavoro di Excel.
