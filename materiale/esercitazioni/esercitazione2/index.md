@@ -1,1 +1,1 @@
-# Esercitazione #2 - Analizzare il Paesaggio
+# Esercitazioni #2
