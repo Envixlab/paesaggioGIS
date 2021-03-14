@@ -42,10 +42,14 @@ Cliccare sull'icona `Class metrics` e selezionare:
 | Area-Edge      | Aggregation |
 | ----------- | ----------- |
 | PLAND      | PD       |
-| Edge Density   | AI        |
+| ED   | AI        |
 
 Cliccare sull'icona `Landscape metrics` e selezionare:
 
 | Diversity    |
 | -----------  |
 | SHDI        |
+
+Cliccare su `Run`.
+
+Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. vandra/tappino).
