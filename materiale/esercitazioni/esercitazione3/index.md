@@ -1,8 +1,7 @@
 # Esercitazione #3 - Quantificare il Paesaggio
 ## Overview
 In questo esercizio imparerai a quantificare il paesaggio attraverso l'utilizzo degli indici di paesaggio (o metriche di paesaggio). La prima parte sarà dedicata alla preparazione del dataset, mentre la seconda verterà sull'analisi.
-
-In questo esercizio userai il programma [Fragstats](https://www.umass.edu/landeco/research/fragstats/fragstats.html): Spatial Pattern Analysis Program for Categorical Maps (McGarigal, K., SA Cushman, and E Ene. 2012).
+L'esercitazione prevede l'utilizzo del software [Fragstats](https://www.umass.edu/landeco/research/fragstats/fragstats.html): Spatial Pattern Analysis Program for Categorical Maps (McGarigal, K., SA Cushman, and E Ene. 2012).
 
 # Parte1: creazione del dataset
 Caricare il dataset vettoriale `uso_suolo.shp`. Il dataset deriva dalla [Carta della Natura della Regione Molise in scala 1:25.000](https://www.isprambiente.gov.it/it/servizi/sistema-carta-della-natura/carta-della-natura-alla-scala-1-50.000/molise). La legenda iniziale che prevede la classificazione delle unità di copertura e uso del suolo secondo lo schema CORINE BIOTOPES, è stata modificata in accordo con il sistema di classificazione sviluppato da [Anderson et al. 1976](https://pubs.usgs.gov/pp/0964/report.pdf), che include 7 classi:
@@ -80,5 +79,6 @@ Rappresentare i dati utilizzando i grafici. Confrontare il pattern del bacino de
 * Qual è la matrice dei due paesaggi?
 * Confrontare gli indici della classe foreste dei due paesaggi. Qual è il livello di frammentazione?
 * Confrontare gli indici NP e PD
-* Esaminare il comportamento dell'indice ED. Confrontare i valori con l'andaomento dell'indice riportato in [Carranza et al. 2015](https://github.com/Envixlab/paesaggioGIS/blob/master/pdf/Carranzaetal2015.pdf)
+* Esaminare il comportamento dell'indice ED. Confrontare i valori con l'andamento dell'indice riportato in [Carranza et al. 2015](https://github.com/Envixlab/paesaggioGIS/blob/master/pdf/Carranzaetal2015.pdf)
+* Confrontare gli indici di diversità dei due paesaggi
 * Quali potrebbero essere i processi che hanno portato all'assetto attuale del pattern spaziale?

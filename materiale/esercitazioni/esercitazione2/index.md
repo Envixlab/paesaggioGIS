@@ -1,1 +1,1 @@
-# Esercitazioni #2
+# Esercitazioni #2 - Gestione dei dati Raster
