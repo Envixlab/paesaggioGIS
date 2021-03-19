@@ -2,12 +2,12 @@
 
 ![sistema](../../../images/gui.png)
 
-1. Barra dei menu
-2. Barra degli strumenti
-3. Pannello dei Layer: nei GIS i dati geografici (sia raster che vettoriali) vengono gestiti secondo la struttura dei layer (o strati). Un layer può contenere un solo tipo di dato (es. puntuale, lineare, areale, raster)
-4. Pannello del browser: permette di navigare nelle cartelle del computer
-5. Map Canvas
-6. Barra di stato
+1. `Barra dei menu`
+2. `Barra degli strumenti`
+3. `Pannello dei Layer`: nei GIS i dati geografici (sia raster che vettoriali) vengono gestiti secondo la struttura dei layer (o strati). Un layer può contenere un solo tipo di dato (es. puntuale, lineare, areale, raster)
+4. `Pannello del browser`: permette di navigare nelle cartelle del computer
+5. `Map Canvas`
+6. `Barra di stato`
 
 Per la lista completa delle funzioni dei menu, consultare nel manuale utente di QGIS, la sezione [QGIS GUI](https://docs.qgis.org/3.16/it/docs/user_manual/introduction/qgis_gui.html). Di seguito la lista dei comandi che verrà utilizzata maggiormente durante il corso.
 
@@ -42,3 +42,4 @@ Alcuni strumenti più utilizzati durante il corso.
 * ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png) Apre il calcolatore campi per il layer selezionato
 
 ## Pannello dei layer
+La visualizzazione dei layer nel `Map Canvas` dipende dall'ordine degli stessi nel `Pannello dei Layer`
