@@ -13,47 +13,15 @@ Per la lista completa delle funzioni dei menu, consultare nel manuale utente di 
 
 ## Barra dei menu
 
-* Dal menu `Progetto` è possibile crea un nuovo progetto, salvarlo, settare le impostazioni del progetto corrente, creare un layout di stampa
-
-
-![sistema](../../../images/sistema.png)
-
-
-## Istruzioni per Linux (Distribuzioni Debian/Ubuntu)
-
-Aggiungere alla fine del file le seguenti linee
-
-```
-sudo nano /etc/apt/source.list
-```
-
-```
-#QGIS 3.16
-deb https://qgis.org/ubuntu-ltr codename main
-deb-src https://qgis.org/ubuntu-ltr codename main
-```
-
-Sostituire codename con la versione di ubuntu/debian in possesso (es. bionic, xenial, focal, ...)
-
-Aggiornare i pacchetti di ubuntu/debian e installare QGIS
-
-```
-sudo apt update
-sudo apt-get install qgis python3-qgis qgis-plugin-grass
-```
-
-In caso di errori al server delle chiavi, aggiungere la chiave pubblica del repository di QGIS e reinstallare.
-
-```
-wget -O - https://qgis.org/downloads/qgis-2020.gpg.key | gpg --import
-gpg --fingerprint F7E06F06199EF2F2
-```
-
-```
-gpg --export --armor F7E06F06199EF2F2 | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
-sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
-```
-
-## Istruzioni per Mac OS
-
-Sul sito di QGIS sono presenti gli installer pronti per le versioni del sistema operativo MacOS. Valgono le stesse considerazioni fatte per windows ossia l'installazione della versione LTR.
+* `Progetto`: creazione di un nuovo progetto, salvataggio, impostazioni del progetto corrente, layout di stampa
+* `Modifica`: comandi per l'editing vettoriale
+* `Visualizza`: comandi per la navigazione della mappa
+* `Layer`: aggiungere, rimuovere, ecc. layer al Map Canvas
+* `Impostazioni`: impostazioni generali di QGIS (influenzano il comportamento di tutti i progetti)
+* `Plugins`: installazione e gestione dei Plugins
+* `Vettore`: alcuni comandi per compiere operazioni su dati vettoriali
+* `Raster`: alcuni comandi per compiere operazioni su dati raster
+* `Database`: gestione dei dati presenti in formato database (Geopackage, PostGIS, SpatiaLite)
+* `Web`: strumenti dedicati all'integrazione web (webmapping, basemaps, ecc.)
+* `Mesh`: strumenti dedicati all'elaborazione di layer Mesh (tipo di dato differente dai formati raster e vettoriali, utilizzto per descrivere fenomeni complessi come velocità e direzione del vento)
+* `Processing`: racchiude gli strumenti di Processing, il modellatore grafico, gli strumenti di altri software integrati in QGIS, ecc.
