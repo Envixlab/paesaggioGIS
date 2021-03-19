@@ -10,7 +10,7 @@ Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\eseci
 In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , navigare nell'apposita cartella e caricare il dataset comuni_molise [link al tutorial](./materiale/tutorial/caricamento_vettoriali/index).
 
 
-Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attributi` ![attribute_table](https://docs.qgis.org/3.16/it/_images/mActionOpenTable.png) oppure cliccare il tasto `F6`. Esplorare la tabella attributi.
+Utilizzare gli strumenti di pan e zoom per prendere confidenza con gli strumenti di QGIS. Per aprire la tabella attributi cliccare sull'icona `Apri Tabella Attributi` ![attribute_table](https://docs.qgis.org/3.16/it/_images/mActionOpenTable.png =250x) oppure cliccare il tasto `F6`. Esplorare la tabella attributi.
 
 ### Vestizione o tematizzazione del dataset
 Vestire o tematizzare un dato significa assegnare colori differenti alle geometrie del dato sulla base delle caratteristiche contenute nella tabella attributi, al fine di evidenziare un fenomeno.
