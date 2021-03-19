@@ -13,9 +13,3 @@ Un possibile modo di organizzare il lavoro è il seguente:
 * Creare una sottocartelle in `C:\progetto1\` chiamata `output` dove si andranno a salvare i file creati in seguito alle elaborazioni
 
 * Creare una sottocartella in `C:\progetto1\` chiamata `layout` dove si andranno a salvare i layout di stampa
-
-```sequence {theme="hand"}
-
-Andrew->China: Says Hello
-
-```
