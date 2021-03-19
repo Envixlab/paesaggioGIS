@@ -45,13 +45,10 @@ Alcuni strumenti più utilizzati durante il corso.
 La visualizzazione dei layer nel `Map Canvas` dipende dall'ordine degli stessi nel `Pannello dei Layer`.
 
 Entrambi i layer visualizzati, il layer `Reg01012019_WGS84` viene visualizzato sopra il layer `TCD_2015_020m_eu_03035_d05_E40N20`.
-
 ![](../../../images/layer_case_1.png)
 
 Solo il layer `TCD_2015_020m_eu_03035_d05_E40N20` è visualizzato.
-
 ![](../../../images/layer_case_2.png)
 
 Entrambi i layer sono visualizzati, ma solo il layer `Reg01012019_WGS84` è attivo.
-
 ![](../../../images/layer_case_2.png)
