@@ -9,12 +9,11 @@
 5. Map Canvas
 6. Barra di stato
 
+Per la lista completa delle funzioni dei menu, consultare nel manuale utente di QGIS, la sezione [QGIS GUI](https://docs.qgis.org/3.16/it/docs/user_manual/introduction/qgis_gui.html). Di seguito la lista dei comandi che verrà utilizzata maggiormente durante il corso.
 
-## Istruzioni per Windows
+## Barra dei menu
 
-Per gli utenti Windows esiste la possibilità di scaricare la versione Standalone installer che scarica QGIS con tutto il necessario per il funzionamento e l'OSGeo4W Network Installer che invece permette di selezionare quali pacchetti installare e di scaricare applicativi aggiuntivi (per utenti avanzati).
-
-Si consiglia di scaricare la versione Standalone a lungo supporto. Prima di scaricare bisogna verificare l'archiettura del Sistema Operativo (32 bit o 64 bit). Per la verifica, recarsi nel **Pannello di controllo**, cliccare su **Sistema e sicurezza**, **Sistema** e verificare la versione in **Tipo di sistema**.
+* Progetto
 
 
 ![sistema](../../../images/sistema.png)
