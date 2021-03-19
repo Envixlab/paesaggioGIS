@@ -1,8 +1,12 @@
 # GUI (Graphical User Interface) di QGIS
 
-QGIS viene distribuito in due versioni principali  la versione più recente (allo stato attuale la 3.18) che però deve essere utilizzata solo da utenti avanzati per il testing, e la versione a lungo supporto LTR (attualmente la 3.16) che è la versione più stabile.
+![sistema](../../../images/gui.png)
 
-[Download QGIS](https://www.qgis.org/it/site/forusers/download.html)
+* Map Canvas
+* Pannello dei Layer: nei GIS i dati geografici (sia raster che vettoriali) vengono gestiti secondo la struttura dei layer (o strati). Un layer può contenere un solo tipo di dato (es. puntuale, lineare, areale, raster)
+* Pannello del browser: permette di navigare nelle cartelle del computer
+* Barra degli strumenti
+* Barra di stato
 
 
 ## Istruzioni per Windows
