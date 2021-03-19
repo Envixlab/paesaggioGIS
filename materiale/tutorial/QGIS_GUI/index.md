@@ -39,3 +39,6 @@ Alcuni strumenti più utilizzati durante il corso.
 * ![zoom_layer](https://docs.qgis.org/3.16/it/_images/mActionZoomToLayer.png) Zoom sul layer evidenziato
 * ![info](https://docs.qgis.org/3.16/it/_images/mActionIdentify.png) Informazione sul singolo elemento del layer
 * ![attribute_table](https://docs.qgis.org/3.16/it/_images/mActionOpenTable.png) Apre la tabella attributi del layer selezionato
+* ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png) Apre il calcolatore campi per il layer selezionato
+
+## Pannello dei layer
