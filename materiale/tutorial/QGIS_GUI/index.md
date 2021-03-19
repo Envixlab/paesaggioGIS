@@ -2,11 +2,12 @@
 
 ![sistema](../../../images/gui.png)
 
-1. Map Canvas
-2. Pannello dei Layer: nei GIS i dati geografici (sia raster che vettoriali) vengono gestiti secondo la struttura dei layer (o strati). Un layer può contenere un solo tipo di dato (es. puntuale, lineare, areale, raster)
-3. Pannello del browser: permette di navigare nelle cartelle del computer
-4. Barra degli strumenti
-5. Barra di stato
+1. Barra dei menu
+2. Barra degli strumenti
+3. Pannello dei Layer: nei GIS i dati geografici (sia raster che vettoriali) vengono gestiti secondo la struttura dei layer (o strati). Un layer può contenere un solo tipo di dato (es. puntuale, lineare, areale, raster)
+4. Pannello del browser: permette di navigare nelle cartelle del computer
+5. Map Canvas
+6. Barra di stato
 
 
 ## Istruzioni per Windows
