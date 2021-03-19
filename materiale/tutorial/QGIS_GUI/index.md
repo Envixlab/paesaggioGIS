@@ -13,7 +13,7 @@ Per la lista completa delle funzioni dei menu, consultare nel manuale utente di 
 
 ## Barra dei menu
 
-* Progetto
+* Dal menu `Progetto` è possibile crea un nuovo progetto, salvarlo, settare le impostazioni del progetto corrente, creare un layout di stampa
 
 
 ![sistema](../../../images/sistema.png)
