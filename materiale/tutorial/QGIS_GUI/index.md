@@ -1,6 +1,6 @@
 # GUI (Graphical User Interface) di QGIS
 
-![sistema](../../../images/gui.png)
+![gui](../../../images/gui.png)
 
 1. `Barra dei menu`
 2. `Barra degli strumenti`
@@ -42,4 +42,8 @@ Alcuni strumenti più utilizzati durante il corso.
 * ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png) Apre il calcolatore campi per il layer selezionato
 
 ## Pannello dei layer
-La visualizzazione dei layer nel `Map Canvas` dipende dall'ordine degli stessi nel `Pannello dei Layer`
+La visualizzazione dei layer nel `Map Canvas` dipende dall'ordine degli stessi nel `Pannello dei Layer`.
+
+### Entrambi i layer visualizzati, il layer `Reg01012019_WGS84` viene visualizzato sopra il layer `TCD_2015_020m_eu_03035_d05_E40N20`
+
+![](../../../images/layer_case_1.png)
