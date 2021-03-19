@@ -38,16 +38,20 @@ Alcuni strumenti più utilizzati durante il corso.
 * ![zoom_select](https://docs.qgis.org/3.16/it/_images/mActionZoomToSelected.png) Zoom sull'elemento selezionato
 * ![zoom_layer](https://docs.qgis.org/3.16/it/_images/mActionZoomToLayer.png) Zoom sul layer evidenziato
 * ![info](https://docs.qgis.org/3.16/it/_images/mActionIdentify.png) Informazione sul singolo elemento del layer
-* ![attribute_table](https://docs.qgis.org/3.16/it/_images/mActionOpenTable.png) Apre la tabella attributi del layer selezionato
-* ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png) Apre il calcolatore campi per il layer selezionato
+* ![attribute_table](https://docs.qgis.org/3.16/it/_images/mActionOpenTable.png) Apre la tabella attributi del layer attivo
+* ![field_calculator](https://docs.qgis.org/3.10/it/_images/mActionCalculateField.png) Apre il calcolatore campi per il layer attivo
 
 ## Pannello dei layer
 La visualizzazione dei layer nel `Map Canvas` dipende dall'ordine degli stessi nel `Pannello dei Layer`.
 
-Entrambi i layer visualizzati, il layer `Reg01012019_WGS84` viene visualizzato sopra il layer `TCD_2015_020m_eu_03035_d05_E40N20`
+Entrambi i layer visualizzati, il layer `Reg01012019_WGS84` viene visualizzato sopra il layer `TCD_2015_020m_eu_03035_d05_E40N20`.
 
 ![](../../../images/layer_case_1.png)
 
-Solo il layer `TCD_2015_020m_eu_03035_d05_E40N20` è visualizzato
+Solo il layer `TCD_2015_020m_eu_03035_d05_E40N20` è visualizzato.
+
+![](../../../images/layer_case_2.png)
+
+Entrambi i layer sono visualizzati, ma solo il layer `Reg01012019_WGS84` è attivo.
 
 ![](../../../images/layer_case_2.png)
