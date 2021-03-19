@@ -10,6 +10,7 @@
     * [GUI di QGIS](./materiale/tutorial/QGIS_GUI/index)
     * [Organizzazione di un progetto GIS](./materiale/tutorial/progetto/index)
     * [Caricamento di dataset vettoriale](./materiale/tutorial/caricamento_vettoriali/index)
+    * [Caricamento di dataset raster](./materiale/tutorial/caricamento_raster/index)
   * [Esercitazioni](./materiale/esercitazioni/index)
 	* [Esercitazione #1](./materiale/esercitazioni/esercitazione1/index)
 	* [Esercitazione #2](./materiale/esercitazioni/esercitazione2/index)
