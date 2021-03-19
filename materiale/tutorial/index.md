@@ -6,4 +6,6 @@ Questa sezione contiene una serie di tutorial utili al corso.
 
 * [GUI di QGIS](./materiale/tutorial/QGIS_GUI/index)
 
+* [Organizzazione di un progetto GIS](./materiale/tutorial/progetto/index)
+
 * [Caricamento di dataset vettoriali](./materiale/tutorial/caricamento_vettoriali/index)
