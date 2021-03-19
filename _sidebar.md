@@ -8,6 +8,7 @@
   * [Tutorial](./materiale/tutorial/index)
     * [Installazione di QGIS](./materiale/tutorial/installazione/index)
     * [GUI di QGIS](./materiale/tutorial/QGIS_GUI/index)
+    * [Organizzazione di un progetto GIS](./materiale/tutorial/progetto/index)
     * [Caricamento di dataset vettoriale](./materiale/tutorial/caricamento_vettoriali/index)
   * [Esercitazioni](./materiale/esercitazioni/index)
 	* [Esercitazione #1](./materiale/esercitazioni/esercitazione1/index)
