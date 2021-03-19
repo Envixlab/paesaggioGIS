@@ -51,4 +51,4 @@ Solo il layer `TCD_2015_020m_eu_03035_d05_E40N20` è visualizzato.
 ![](../../../images/layer_case_2.png)
 
 Entrambi i layer sono visualizzati, ma solo il layer `Reg01012019_WGS84` è attivo.
-![](../../../images/layer_case_2.png)
+![](../../../images/layer_case_3.png)
