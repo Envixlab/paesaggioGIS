@@ -42,7 +42,7 @@ Riclassificare un raster significa assegnare dei nuovi valori ai pixel secondo d
 Aprire gli strumenti di processing e cercare `Riclassifica con tabella`:
 * `Layer Raster`: DEM_Molise_Tinitaly
 * `Numero banda`: 1
-* `Tabella di riclassificazione`: Banda singola falso colore
+* `Tabella di riclassificazione`:
 
 |Minimo|Massimo|Valore|
 | ----------- | ----------- | ----------- |
