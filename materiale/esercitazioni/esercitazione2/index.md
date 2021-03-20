@@ -54,6 +54,6 @@ Aprire gli strumenti di processing e cercare `Riclassifica con tabella`:
 
 * `Parametri avanzati`
 * `Limiti intervallo`: min < valore <=max
-* `Raster riclassificato`: Salvare il file all'interno della cartella di progetto
+* `Raster riclassificato`: Salvare il file all'interno della cartella di output
 
 Per tematizzare il raster utilizzare `Valori a Tavolozza/Univoci`
