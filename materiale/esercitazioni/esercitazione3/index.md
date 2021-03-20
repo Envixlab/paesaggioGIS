@@ -24,7 +24,7 @@ Utilizzare lo strumento `Ritaglia` del menu `Geoprocessing`, per creare due cart
 * `Larghezza/Risoluzione orizzontale`: 10
 * `Larghezza/Risoluzione verticale`: 10
 * `Estensione del risultato`: Calcola da Layer->landcover_vandra (landcover_tappino)
-* `Rasterizzato`: Salvare il file all'interno della cartella di progetto (landcover_vandra.tif/landcover_tappino.tif)
+* `Rasterizzato`: Salvare il file all'interno della cartella di output (landcover_vandra.tif/landcover_tappino.tif)
 
 # Parte2: analisi del pattern
 Lanciare l'eseguibile di Fragstats. Verrà effettuata un'analisi del pattern a livello di classe (per ogni categoria di land cover) e a livello di paesaggio (considerando tutte le categorie insieme).
