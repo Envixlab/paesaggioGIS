@@ -7,7 +7,7 @@ In questo esercizio imparerai ad utilizzare gli strumenti di Geoprocessing per e
 ### Caricamento del dataset
 Creare una cartella \paesaggioGIS\esercizio_1b nel percorso C:\paesaggioGIS\esecizio_1b e copiare all'interno i dataset presence_points e uso_suolo (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata. Caricare i due file vettoriali.
 
-### Creazione dei siti di foraggiamento
+### Creazione dei siti di caccia
 Viene stimato che l'estensione media del territorio di caccia del Barbagianni comune sia pari a circa 3 km<sup>2</sup>. Bisogna creare, quindi, un buffer circolare intorno ai presence_points di 1000 metri di raggio.
 
 `Vettore -> Strumenti di Geoprocessing -> Buffer`
