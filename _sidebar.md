@@ -13,6 +13,7 @@
     * [Caricamento di dataset raster](./materiale/tutorial/caricamento_raster/index)
   * [Esercitazioni](./materiale/esercitazioni/index)
 	* [Esercitazione #1](./materiale/esercitazioni/esercitazione1/index)
+    * [Esercitazione #1b](./materiale/esercitazioni/esercitazione1b/index)
 	* [Esercitazione #2](./materiale/esercitazioni/esercitazione2/index)
 	* [Esercitazione #3](./materiale/esercitazioni/esercitazione3/index)
 
