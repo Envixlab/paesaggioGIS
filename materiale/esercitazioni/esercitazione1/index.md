@@ -6,7 +6,7 @@ In questo esercizio imparerai a caricare un dataset vettoriale, esplorare la tab
 [Download del Dataset](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/esercitazione_1.zip)
 ## Parte 1: caricamento del dataset vettoriale comuni_molise
 ### Caricamento del dataset
-Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\esecizio_1 e copiare all'interno il dataset comuni_molise (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
+Creare una cartella \paesaggioGIS\esercizio_1 nel percorso C:\paesaggioGIS\esecizio_1\dataset e copiare all'interno il dataset comuni_molise (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
 In QGIS cliccare su `Layer -> Aggiungi Layer -> Aggiungi Layer Vettore` , navigare nell'apposita cartella e caricare il dataset comuni_molise [link al tutorial](./materiale/tutorial/caricamento_vettoriali/index).
 
 
