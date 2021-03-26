@@ -6,7 +6,7 @@ In questo esercizio imparerai a caricare un dataset raster, esplorare le caratte
 [Download del Dataset](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/esercitazione_2.zip)
 
 ### Caricamento del dataset
-Creare una cartella \paesaggioGIS\esercizio_2 nel percorso C:\paesaggioGIS\esecizio_2 e copiare all'interno il dataset DEM_Molise_Tinitaly.tif. Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
+Creare una cartella \paesaggioGIS\esercizio_2\dataset nel percorso C:\paesaggioGIS\esecizio_2\dataset e copiare all'interno il dataset DEM_Molise_Tinitaly.tif. Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
 In QGIS cliccare su `Layer -> Aggiungi Raster -> Aggiungi Layer Raster`, navigare nella cartella contenente il file e caricare il dataset DEM_Molise_Tinitaly.tif [[link al tutorial](./materiale/tutorial/caricamento_raster/index)].
 
 Il dataset deriva dal Modello Digitale del Terreno d'Italia, creato da  [Tarquini et al. 2007](http://tinitaly.pi.ingv.it/).
