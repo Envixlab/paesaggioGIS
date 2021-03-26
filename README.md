@@ -33,9 +33,9 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 ### Contatti
 [Dott. Ludovico Frate](mailto:frateludovico@gmail.com)
 
-[Prof.ssa Maria Laura Carranza](mailto:carranza@unimol.it)
+[Prof.ssa Maria Laura Carranza](mailto:paesaggiogis@gmail.com)
 
-[Prof. Mirko Di Febbraro](mailto:mirkodifebbraro@gmail.com)
+[Prof. Mirko Di Febbraro](mailto:paesaggiogis@gmail.com)
 
 ### Licenza
 Dove non diversamente specificato si applica la licenza CC BY 4.0
