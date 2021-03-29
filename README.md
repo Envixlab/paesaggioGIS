@@ -30,12 +30,16 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 
 [Mirko Di Febbraro](http://envixlab.unimol.it/team_mf/mirko-di-febbraro/)
 
+[Flavio Marzialetti](http://envixlab.unimol.it/team_mf/flavio-marzialetti/) (curatore del modulo di [Remote Sensing](https://envixlab.github.io/paesaggioGIS/#/./link/index))
+
 ### Contatti
 [Dott. Ludovico Frate](mailto:frateludovico@gmail.com)
 
 [Prof.ssa Maria Laura Carranza](mailto:paesaggiogis@gmail.com)
 
 [Prof. Mirko Di Febbraro](mailto:paesaggiogis@gmail.com)
+
+[Dott. Flavio Marzialetti](mailto:flavio.marzialetti@unimol.it)
 
 ### Licenza
 Dove non diversamente specificato si applica la licenza CC BY 4.0
