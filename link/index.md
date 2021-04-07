@@ -11,3 +11,9 @@ I seguenti link contengono le slides e le esercitazioni del modulo di Remote Sen
 
 * Remote sensing - Teoria: introduzione e casi applicativi in ecologia del paesaggio [download](https://github.com/Envixlab/paesaggioGIS/raw/master/pdf/Remote_Sensing_Teoria_FlavioMarzialetti.pdf)
 * Remote sensing - Esercitazione: introduzione e casi applicativi in ecologia del paesaggio [download](https://github.com/Envixlab/paesaggioGIS/raw/master/pdf/RemoteSensing_Pratica_FlavioMarzialetti.pdf)
+
+Il materiale del modulo può essere scaricato ai seguenti Link:
+
+[Download del Dataset 1](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/ConfiniLagoVico.zip)
+
+[Download del Dataset 2](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/S2B_MSIL2A_20200719T100029_N0214_R122_T33TTG_20200719T132400.zip)
