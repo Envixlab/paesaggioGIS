@@ -23,7 +23,7 @@ L'obiettivo del modulo è quello di introdurre i concetti base del GIS in modo d
 ### Date e orari del modulo
 * 1° lezione Venerdì 26 Marzo, 14:00-17:00
 * 2° lezione Venerdì 09 Aprile, 14:00-17:00
-* 3° lezione Venerdì 16 Aprile, 14:00-17:00
+* 3° lezione Venerdì 23 Aprile, 14:00-17:00
 
 ### Docenti dei corsi
 [Maria Laura Carranza](http://envixlab.unimol.it/team_mf/laura-carranza/)
