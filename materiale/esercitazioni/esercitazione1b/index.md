@@ -2,7 +2,7 @@
 ## Overview
 In questo esercizio imparerai ad utilizzare gli strumenti di Geoprocessing per effettuare un'analisi sulle caratteristiche del paesaggio (in termini di copertura del suolo) dei siti di caccia del Barbagianni comune (*Tyto alba*). Il Dataset deriva dal database OpenMice ([Paniccia et al. 2018](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2506)) e contiene la distribuzione e l'abbondanza dei piccoli mammiferi (eulipotifli e roditori) derivate dalla raccolta delle borre di vari rapaci notturni.
 
-[Download del Dataset](https://github.com/Envixlab/paesaggioGIS/blob/master/dataset/esercizio_1b.zip)
+[Download del Dataset](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/esercizio_1b.zip)
 
 ### Caricamento del dataset
 Creare una cartella \paesaggioGIS\esercizio_1b\dataset nel percorso C:\paesaggioGIS\esecizio_1b\dataset e copiare all'interno i dataset presence_points e uso_suolo (.shp, .shx, .dbf, .prj). Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata. Caricare i due file vettoriali.
