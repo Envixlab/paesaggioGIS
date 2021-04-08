@@ -16,4 +16,4 @@ Download dei dataset
 
 [Dataset 1](https://github.com/Envixlab/RemoteSensing_esercitazione/blob/master/dataset/ConfiniLagoVico.zip)
 
-[Dataset 2](https://github.com/Envixlab/paesaggioGIS/blob/master/dataset/S2B_MSIL2A_20200719T100029_N0214_R122_T33TTG_20200719T132400.zip)
+[Dataset 2](https://github.com/Envixlab/RemoteSensing_esercitazione/blob/main/dataset/S2B_MSIL2A_20200719T100029_N0214_R122_T33TTG_20200719T132400.zip)
