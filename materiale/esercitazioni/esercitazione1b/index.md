@@ -1,6 +1,6 @@
 # Esercitazione #1b - Geoprocessing
 ## Overview
-In questo esercizio imparerai ad utilizzare gli strumenti di Geoprocessing per effettuare un'analisi sulle caratteristiche del paesaggio (in termini di copertura e uso del suolo) dei siti di caccia del Barbagianni comune (*Tyto alba*). Il Dataset deriva dal database OpenMice ([Paniccia et al. 2018](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2506)) e contiene la distribuzione e l'abbondanza dei piccoli mammiferi (eulipotifli e roditori) derivata dalla raccolta delle borre di vari rapaci notturni.
+In questo esercizio imparerai ad utilizzare gli strumenti di Geoprocessing per effettuare un'analisi sulle caratteristiche del paesaggio (in termini di copertura del suolo) dei siti di caccia del Barbagianni comune (*Tyto alba*). Il Dataset deriva dal database OpenMice ([Paniccia et al. 2018](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2506)) e contiene la distribuzione e l'abbondanza dei piccoli mammiferi (eulipotifli e roditori) derivate dalla raccolta delle borre di vari rapaci notturni.
 
 [Download del Dataset](https://github.com/Envixlab/paesaggioGIS/blob/master/dataset/esercizio_1b.zip)
 
@@ -16,7 +16,7 @@ Viene stimato che l'estensione media del territorio di caccia del Barbagianni co
 * `Distanza`: 1000
 * `Risultato da operazione di buffer`: Salvare il file all'interno della cartella di output e chiamarlo `hunting_areas`
 
-Per ogni sito di caccia si deve estrarre l'informazione relativa all'uso e copertura del suolo. Il dataset da utilizzare è `uso_suolo`. Per maggiori informazioni sul dataset consultare l'[esercitazione#3](/materiale/esercitazioni/esercitazione3/index).
+Per ogni sito di caccia si deve estrarre l'informazione relativa alla copertura del suolo. Il dataset da utilizzare è `uso_suolo`. Per maggiori informazioni sul dataset consultare l'[esercitazione#3](/materiale/esercitazioni/esercitazione3/index).
 
 `Vettore -> Strumenti di Geoprocessing -> Ritaglia`
 

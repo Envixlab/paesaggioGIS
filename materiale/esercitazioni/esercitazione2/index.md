@@ -26,7 +26,7 @@ Tipo di visualizzazione:
 * `Colori banda multipla`: sfrutta le informazioni contenute in raster multibanda per ricreare un colore secondo il modello RGB
 * `Banda singola falso colore`: assegna una colorazione utilizzando delle scale di colorazione
 * `Valori a Tavolozza/Univoci`: si utilizzano per raster categorici in cui i valori dei pixel esprimono delle qualità o categorie (es. uso del suolo)
-* `Ombreggiatura` e `Curve di livello`: si utilizzando per i modelli digitali del terreno
+* `Ombreggiatura` e `Curve di livello`: si utilizza per i modelli digitali del terreno
 
 #### Tematizzare il dataset selezionando una scala topografica
 Nella scheda `Simbologia`:
@@ -48,9 +48,9 @@ Aprire gli strumenti di processing e cercare `Riclassifica con tabella`:
 | ----------- | ----------- | ----------- |
 |0            |400          |1            |
 |400          |800          |2            |
-|800          |1200         |2            |
-|1200         |1600         |2            |
-|1600         |2200         |2            |
+|800          |1200         |3            |
+|1200         |1600         |4            |
+|1600         |2200         |5            |
 
 * `Parametri avanzati`
 * `Limiti intervallo`: min < valore <=max
