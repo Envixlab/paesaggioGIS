@@ -14,6 +14,6 @@ I seguenti link contengono le slides e le esercitazioni del modulo di Remote Sen
 
 Download dei dataset
 
-[Dataset 1](https://github.com/Envixlab/RemoteSensing_esercitazione/raw/master/dataset/ConfiniLagoVico.zip)
+[Dataset 1](https://github.com/Envixlab/RemoteSensing_esercitazione/raw/main/dataset/ConfiniLagoVico.zip) 
 
 [Dataset 2](https://github.com/Envixlab/RemoteSensing_esercitazione/raw/main/dataset/S2B_MSIL2A_20200719T100029_N0214_R122_T33TTG_20200719T132400.zip)
