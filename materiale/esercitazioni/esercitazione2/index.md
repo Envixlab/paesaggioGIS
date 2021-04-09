@@ -3,7 +3,7 @@
 ## Overview
 In questo esercizio imparerai a caricare un dataset raster, esplorare le caratteristiche del dato e manipolare la sua rappresentazione e riclassificare il raster.
 
-[Download del Dataset](https://github.com/Envixlab/paesaggioGIS/raw/master/dataset/esercitazione_2.zip)
+[Download del Dataset](https://github.com/Envixlab/dataset_paesaggioGIS/raw/main/dataset/esercitazione_2.zip)
 
 ### Caricamento del dataset
 Creare una cartella \paesaggioGIS\esercizio_2\dataset nel percorso C:\paesaggioGIS\esecizio_2\dataset e copiare all'interno il dataset DEM_Molise_Tinitaly.tif. Aprire QGIS, creare un nuovo progetto e salvarlo nella cartella appena creata.
