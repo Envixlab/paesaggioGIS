@@ -59,11 +59,11 @@ Cliccare su `Run`.
 * ED (Edge Density): corrisponde alla lunghezza totale del perimetro in rapporto alla superficie in ettari. In generale, ad aumentare dei livelli di frammentazione, ED aumenta. Tuttavia, ED ha un comportamento fortemente non lineare in relazione a PLAND [Carranza et al. 2015](https://github.com/Envixlab/paesaggioGIS/blob/master/pdf/Carranzaetal2015.pdf).
 * NP (Number of Patches) e PD (Patches Density): esprimono il numero di pacthes di una determinata classe in valori assoluti (NP) oppure in relazione all'estensione della classe (PD).
 * AI (Aggregation Index): esprime il livello di aggregazione delle pacthes (valori elevati esprimono patches compatte e ben connesse)
-* SHDI (Shannon Diversity Index): esprime la diversità del paesaggio considerando sia il numero di pathces appartenenti a classi differenti (ricchezza) che la loro abbondanza realtiva.
+* SHDI (Shannon Diversity Index): esprime la diversità del paesaggio considerando sia il numero di pathces appartenenti a classi differenti (ricchezza) che la loro abbondanza relativa.
 
-![frag](https://raw.githubusercontent.com/Envixlab/paesaggioGIS/master/images/frag.jpeg).
+![frag](https://raw.githubusercontent.com/Envixlab/paesaggioGIS/master/images/frag.jpeg)
 
-Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccsare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. `risultati_pattern`). Vengono generati due file di output con estensione `.class` e `.land`. Per importarli in un foglio di calcolo e fare le analisi occorre modificare i due file con un editori di testo (Blocco note di windows).
+Nella scheda Results sono presenti i risultati dell'analisi del pattern, a livello di classe (`Class`) e a livello di paesaggio (`Landscape`). Cliccare su `Save run as`, selezionare la cartella dove salvare il file e dare un nome (es. `risultati_pattern`). Vengono generati due file di output con estensione `.class` e `.land`. Per importarli in un foglio di calcolo e fare le analisi occorre modificare i due file con un editor di testo (Blocco note di windows).
 
 Aprire il Blocco note, cliccare su `File` -> `Apri` -> `Tutti i file` e selezionare `risultati_pattern.class`. Il separatore decimale dell'ouput è il punto, ma i sistemi Windows in Italia, sono settati per avere come separatore decimale la virgola. Bisogna quindi sostituire il punto con la virgola e, la virgola utilizzata per separare le colonne, con il punto e virgola (**se si usa come foglio elettronico Fogli di Google questa operazione non è necessaria. Si può saltare questo step**).
 Cliccare su Modifica -> Sostituisci:
