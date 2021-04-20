@@ -14,6 +14,7 @@ Creare un nuovo Layout di stampa.
 
 Il `Layout di Stampa` utilizza una struttura ad oggetti: ogni elemento caricato nel layout costituisce un oggetto (mappe, legende, immagini, ecc.). Il `Layout di Stampa` e il `Map Canvas` sono collegati, di default, in maniera dinamica: i contenuti visualizzati nel `Map Canvas` vengono visualizzati nel `Layout di Stampa`. Ne deriva che la prima operazione da compiere è quella di tematizzare e impostare la visualizzazione desiderata dei dati nel `Map Canvas`.
 
+### Aggiungere una Mappa
 Per aggiunere la mappa al layout cliccare su `Aggiungi Mappa` ![add_map](https://docs.qgis.org/3.10/it/_images/mActionAddMap.png), posizionarsi nell'angolo in alto a sinistra del layout, cliccare con il tasto sinistro e tenendo premuto spostarsi nell'angolo in basso a destra e rilasciare il pulsante del mouse.
 
 
@@ -28,3 +29,11 @@ Quando si aggiunge un nuovo oggetto quest'ultimo verrà aggiunto al `Pannello og
 Ai fini dell'esercitazione impostare una scala uguale a 700000 e aggiungere una cornice. Quando si è soddisfatti del proprio risultato si può bloccare l'oggetto Mappa per evitare modifiche indesiderate, spuntando il simbolo di lucchetto nel `Pannello oggetti`.
 
 ![layout_lock](../../../images/layout_lock.PNG)
+
+Come detto in precedenza, `Layout di Stampa` e `Map Canvas` sono collegati dinamicamente. Per bloccare la mappa sulla vista attuale, cliccare su `Blocca layer` e `Blocca stili per i layer` per "congelare" i layer e gli stili attuali.
+
+![layout_layer_lock](../../../images/layout_layer_lock.PNG)
+
+### Aggiungere una Legenda
+Per aggiungere la legenda al layout cliccare su `Aggiungi Legenda` ![legend](https://docs.qgis.org/3.10/it/_images/mActionAddLegend.png)
+Di default la legenda mostra tutte le simbologie presenti nel `Map Canvas`, anche le non visibili (nel file di eserictazione mostra anche la simbologia delle Regioni). Per filtrare solo i layer presenti nel layout, andare nelle proprietà della legenda, `Oggetti Legenda` e spuntare `Mostra solamente oggetti all'interno della mappa collegata`. Di una legenda si possono impostare il titolo, regolare dimensioni, spaziatura, caratteri, ecc.
