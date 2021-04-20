@@ -11,3 +11,5 @@ Questa sezione contiene una serie di tutorial utili al corso.
 * [Caricamento di dataset vettoriali](./materiale/tutorial/caricamento_vettoriali/index)
 
 * [Caricamento di dataset raster](./materiale/tutorial/caricamento_raster/index)
+
+* [Layout di stampa](./materiale/tutorial/layout/index)

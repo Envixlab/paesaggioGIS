@@ -11,6 +11,7 @@
     * [Organizzazione di un progetto GIS](./materiale/tutorial/progetto/index)
     * [Caricamento di dataset vettoriale](./materiale/tutorial/caricamento_vettoriali/index)
     * [Caricamento di dataset raster](./materiale/tutorial/caricamento_raster/index)
+    * [Layout di stampa](./materiale/tutorial/layout/index)
   * [Esercitazioni](./materiale/esercitazioni/index)
 	* [Esercitazione #1](./materiale/esercitazioni/esercitazione1/index)
     * [Esercitazione #1b](./materiale/esercitazioni/esercitazione1b/index)
