@@ -44,14 +44,15 @@ Cliccare sull'icona `Class metrics` e selezionare:
 | Area-Edge      | Aggregation |
 | ----------- | ----------- |
 | PLAND      | PD       |
-| ED   | NP        |
-| -   | AI        |
+| CA/TA   | NP        |
+| ED   | AI        |
 
 Cliccare sull'icona `Landscape metrics` e selezionare:
 
 | Diversity    |
 | -----------  |
 | SHDI        |
+| PR        |
 
 Cliccare su `Run`.
 
