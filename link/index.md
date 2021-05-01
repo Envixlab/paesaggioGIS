@@ -14,6 +14,6 @@ I seguenti link contengono le slides e le esercitazioni del modulo di Remote Sen
 
 Download dei dataset
 
-[Dataset 1](https://drive.google.com/file/d/1Bx_RibG3gh2ciobpyUgM6WrDIyrtpuxF/view?usp=sharing)
+[Dataset 1 - Sentinel](https://drive.google.com/file/d/1Bx_RibG3gh2ciobpyUgM6WrDIyrtpuxF/view?usp=sharing)
 
-[Dataset 2](https://drive.google.com/file/d/1Bx_RibG3gh2ciobpyUgM6WrDIyrtpuxF/view?usp=sharing)
+[Dataset 2 - Confini Lago Vico](https://drive.google.com/file/d/18yANuhrR0tSmGyYca7Xx-sQgF8C-h1Ub/view?usp=sharing)
