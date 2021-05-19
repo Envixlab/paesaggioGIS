@@ -61,7 +61,7 @@ Cliccare su `Run`.
 * ED (Edge Density): corrisponde alla lunghezza totale del perimetro in rapporto alla superficie in ettari. In generale, ad aumentare dei livelli di frammentazione, ED aumenta. Tuttavia, ED ha un comportamento fortemente non lineare in relazione a PLAND [Carranza et al. 2015](https://github.com/Envixlab/paesaggioGIS/blob/master/pdf/Carranzaetal2015.pdf).
 * NP (Number of Patches) e PD (Patches Density): esprimono il numero di pacthes di una determinata classe in valori assoluti (NP) oppure in relazione all'estensione del paesaggio (PD).
 * AI (Aggregation Index): esprime il livello di aggregazione delle pacthes (valori elevati esprimono patches compatte e ben connesse)
-* PR (Patch Richness): esprime la diversità del paesaggio in temini di ricchezza.
+* PR (Patch Richness): esprime la diversità del paesaggio in termini di ricchezza.
 * SHDI (Shannon Diversity Index): esprime la diversità del paesaggio considerando sia il numero di pathces appartenenti a classi differenti (ricchezza) che la loro abbondanza relativa.
 
 ![frag](https://raw.githubusercontent.com/Envixlab/paesaggioGIS/master/images/frag.jpeg)
