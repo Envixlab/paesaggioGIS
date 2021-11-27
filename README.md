@@ -50,3 +50,5 @@ Dove non diversamente specificato si applica la licenza CC BY 4.0
 ### Aggiornamenti
 
 <a href="https://github.com/Envixlab/paesaggioGIS/commits/master"><img src="https://camo.githubusercontent.com/f5f7431cfccb2ebed2649bb2e2ab87ddc4659461/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f70636d2d6470632f434f5649442d3139" alt="GitHub commit" data-canonical-src="https://img.shields.io/github/last-commit/envixlab/paesaggioGIS" style="max-width:100%;"></a></p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/envixlab/paesaggioGIS?color=red&style=plastic)
