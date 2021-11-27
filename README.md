@@ -1,4 +1,4 @@
-# Benvenuto sulla pagina di [Introduzione al GIS!](https://envixlab.github.io/paesaggioGIS/#/./materiale/tutorial/layout/index)
+# Benvenuto sulla pagina di [Introduzione al GIS!](https://envixlab.github.io/paesaggioGIS/#/./)
 
 ## Questo sito contiene la documentazione prodotta durante il modulo di **Introduzione al GIS** per i corsi di Ecologia del Paesaggio e Sistemi Informativi Territoriali applicati all'Ecologia e alla gestione degli ambienti montanti (a.a. 2020-2021).
 
