@@ -49,4 +49,4 @@ Dove non diversamente specificato si applica la licenza CC BY 4.0
 
 ### Aggiornamenti
 
-![GitHub last commit](https://img.shields.io/github/last-commit/envixlab/paesaggioGIS?color=red&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/envixlab/paesaggioGIS?color=green&style=plastic)
